@@ -13,7 +13,7 @@ const members = [
   {
     avatar: 'https://i0.hdslb.com/bfs/face/b4e3d3336ac518d89e021de23f92b7429c95bf36.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp',
     name: 'cw1551',
-    title: '维护/编辑/主程序',
+    title: '维护/编辑/副程序',
   },
   {
     avatar: 'https://mirror.mengze2.cn/proxy/github.com/qcbby.png',
