@@ -26,7 +26,7 @@ const members = [
   {
     avatar: 'https://mirror.mengze2.cn/proxy/github.com/MengZe2l.png',
     name: 'MengZe2l',
-    title: '维护/编辑',
+    title: '维护/编辑/备用文档站站长',
     links: [
       { icon: 'github', link: 'https://github.com/MengZe2l' },
       { icon: 'x', link: 'https://x.com/MengZe2' }
